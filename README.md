@@ -1,6 +1,8 @@
 # WordBlitzExecutor
 A program that plays the facebook game "WordBlitz" - consistently with an average of 99% of words per round. This program by far beats any other WordBlitz bot that I know of.
 
+See it in action: https://www.youtube.com/watch?v=r-3fZLzNF1U
+
 I DO NOT ENDORSE CHEATING IN THE GAME WORDBLITZ - This program is intended to be used for fun, not against unknowing players.
 
 
