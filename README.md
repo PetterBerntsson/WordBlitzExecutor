@@ -1,6 +1,8 @@
 # WordBlitzExecutor
 A program that plays the facebook game "WordBlitz" - consistently with an average of 99% of words per round
 
+I DO NOT ENDORSE CHEATING IN THE GAME WORDBLITZ - This program is intended to be used for fun, not against unknowing players.
+
 
 The English vocabulary "sowpods.txt" should be used for highest average. The Swedish vocabulary beats all players so far but no average score has been tested.
 
